@@ -202,9 +202,9 @@
 
           <v-card-actions>
             <v-spacer></v-spacer>
-            <v-btn color="#454545" variant="flat" size="large" style="text-transform: none !important;" block class="mb-2">
+            <v-btn color="#454545" variant="flat" size="large" style="text-transform: none !important;" block class="mb-2" disabled>
               <v-img src="/img/icons/opensea.png" style="max-width:32px;margin-right:10px"></v-img>
-              Explore Now
+              Cominig Soon
             </v-btn>
             <v-spacer></v-spacer>
           </v-card-actions>
