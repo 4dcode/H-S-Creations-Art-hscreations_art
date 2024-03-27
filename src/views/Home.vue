@@ -60,13 +60,11 @@
 
           <v-col cols="12" md="6" :align="'left'" class="pa-8">
 
-            <p style="font-size:2rem;font-weight:bold">The Extraordinary & High Value</p>
+            <p style="font-size:1.5rem;font-weight:bold">Art That Echoes In Your Soul: A Bold Investment</p>
 
 
-            <p class="pt-4" :style="drawer ? 'font-size:1.3rem;' : 'font-size:1.5rem;'">This isn't just about aesthetics! Here's how to ensure your art stands out:<br><br>
-              The Artist's Story: Are you a philosopher who turned to code? A former scientist haunted by mortality? Your why is as important as the art itself.
-              Limited Editions: Scarcity creates high value. Resist the urge to endlessly mint NFTs of the same thing.<br><br>
-              The Gallery Experience: Can your art be projected at a massive scale? Does it work with curated soundscapes? Think beyond the online sale for maximum impact.</p>
+            <p class="pt-4" :style="drawer ? 'font-size:1.2rem;' : 'font-size:1.3rem;'">My obsession lies in those fleeting moments where the preciousness of existence shines against the backdrop of its inevitable end.  It's not about shock value or simple darkness. My work seeks to capture a profound sense of unease, prompting an introspective examination of what it means to be alive.<br><br>
+              This work is not for the casual viewer. It's for those who value art that transcends the surface, collectors seeking an echo of their own existential questions reflected back at them.  Owning one of my NFTs is not merely possession, it's a portal to a visceral exploration of the human condition.  A visceral reminder to fully embrace the extraordinary within the fleeting.</p>
 
           </v-col>
 
