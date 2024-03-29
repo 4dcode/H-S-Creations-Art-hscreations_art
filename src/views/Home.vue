@@ -53,7 +53,7 @@
           <v-col cols="12" md="6" :align="'center'">
             
             <v-img 
-              src="/img/home/hs_story.webp"
+              src="/img/home/hs_story_01.webp"
             ></v-img>
 
           </v-col>
@@ -61,11 +61,8 @@
           <v-col cols="12" md="6" :align="'left'" class="pa-8">
 
             <p style="font-size:1.5rem;font-weight:bold">Art That Echoes In Your Soul: A Bold Investment</p>
-
-
             <p class="pt-4" :style="drawer ? 'font-size:1.2rem;' : 'font-size:1.3rem;'">My obsession lies in those fleeting moments where the preciousness of existence shines against the backdrop of its inevitable end.  It's not about shock value or simple darkness. My work seeks to capture a profound sense of unease, prompting an introspective examination of what it means to be alive.<br><br>
               This work is not for the casual viewer. It's for those who value art that transcends the surface, collectors seeking an echo of their own existential questions reflected back at them.  Owning one of my NFTs is not merely possession, it's a portal to a visceral exploration of the human condition.  A visceral reminder to fully embrace the extraordinary within the fleeting.</p>
-
           </v-col>
 
 
@@ -73,6 +70,40 @@
 
       </v-card>
     </v-row>
+
+    <v-row :class="$vuetify.display.mobile ? 'ma-2 mt-16 mb-8' : 'mx-16 mt-4 mb-16'">
+     
+     <v-card theme="dark" 
+             width="100%"
+             class="mt-4"
+             :min-height="drawer ? 370 : 450"
+             color="#000"
+             style="border: 1px solid white"
+     >
+
+       <v-row :align="'center'">
+
+         <v-col cols="12" md="7" :align="'left'" class="pa-8 order-last order-md-first">
+
+           <p style="font-size:1.5rem;font-weight:bold">Digital Realms: Unveiling the Secrets of Infinity</p>
+           <p class="pt-4" :style="drawer ? 'font-size:1.2rem;' : 'font-size:1.2rem;'">In the depths of the digital cosmos, where pixels dance in a symphony of light and darkness, there exists a realm known only to the select few who dare to venture beyond the ordinary. It is a realm where the unseen dimensions intertwine with the tangible, invoking a sense of mystery that beckons the curious and the bold.<br><br>
+              In this realm, artworks are not mere static images but living, breathing entities that actively engage with those who dare to behold them. Through layers of evolving soundscapes and hidden details, they unfold like ancient scrolls, revealing secrets that defy the boundaries of perception.<br><br>
+              And as the world of NFTs evolves, my artworks stand at the forefront of bigger trends, connecting the concept of infinity to the metaverse, generative art, and the blending of physical and digital ownership. They are not just pieces of art; they are gateways to a new reality, where the infinite possibilities of the digital cosmos await those brave enough to explore them.</p>
+         </v-col>
+
+         <v-col cols="12" md="5" :align="'center'">
+           
+           <v-img 
+             src="/img/home/hs_story_02.webp"
+           ></v-img>
+
+         </v-col>
+
+       </v-row>
+
+     </v-card>
+   </v-row>
+
   </div>
 
   <div id="collections" class="pb-16" style="background: rgb(69,69,69);background: linear-gradient(180deg, rgba(69,69,69,1) 0%, rgba(0,0,0,1) 100%);">
