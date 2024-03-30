@@ -342,6 +342,7 @@ export default {
         {name: 'Harmonic Gateways #05', src: '/img/collections/harmonic_gateways/harmonic_gateways_05.webp'},
         {name: 'Harmonic Gateways #12', src: '/img/collections/harmonic_gateways/harmonic_gateways_12.webp'},
         {name: 'Harmonic Gateways #22', src: '/img/collections/harmonic_gateways/harmonic_gateways_22.webp'},
+        {name: 'Harmonic Gateways #30', src: '/img/collections/harmonic_gateways/harmonic_gateways_30.webp'},
       ],
       whispersOfTime: [
         {name: 'Infinity\'s Echo #01', src: '/img/collections/whispers_of_time/whispers_of_time_01.webp'},
