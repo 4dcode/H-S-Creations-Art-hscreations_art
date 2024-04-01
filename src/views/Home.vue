@@ -223,7 +223,7 @@
             <div>
               <div class="text-h6 text-left">NFT Collection Name: Infinity</div>
               <div class="text-h6 text-left">Blockchain: Ethereum (ETH)</div>
-              <div class="text-h6 text-left">Total NFTs: 50</div>
+              <div class="text-h6 text-left">Total NFTs: 158</div>
               <div class="text-h6 text-left">Launch Platform: OpenSea</div>
               <div class="text-h6 text-center mt-4">Launch Date: 2 April, 2024</div>
             </div>
@@ -231,9 +231,9 @@
 
           <v-card-actions>
             <v-spacer></v-spacer>
-            <v-btn color="#454545" variant="flat" size="large" style="text-transform: none !important;" block class="mb-2" disabled>
-              <v-img src="/img/icons/opensea.png" style="max-width:32px;margin-right:10px"></v-img>
-              Cominig Soon
+            <v-btn color="#454545" variant="flat" size="large" style="text-transform: none !important;" block class="mb-2" href="https://opensea.io/collection/infinity-by-hs" target="_blank">
+              <v-img src="/img/icons/opensea.png" style="max-width:32px;margin-right:10px" ></v-img>
+              To OpenSea
             </v-btn>
             <v-spacer></v-spacer>
           </v-card-actions>
@@ -254,7 +254,7 @@
             <div>
               <div class="text-h6 text-left">NFT Collection Name: Infinity</div>
               <div class="text-h6 text-left">Blockchain: Polygon/Matic (MATIC)</div>
-              <div class="text-h6 text-left">Total NFTs: 50</div>
+              <div class="text-h6 text-left">Total NFTs: 200</div>
               <div class="text-h6 text-left">Launch Platform: Rarible</div>
               <div class="text-h6 text-center mt-4">Launch Date: 5 April, 2024</div>
             </div>
@@ -264,7 +264,7 @@
             <v-spacer></v-spacer>
             <v-btn color="#454545" variant="flat" size="large" style="text-transform: none !important;" block class="mb-2" disabled>
               <v-img src="/img/icons/rarible.png" style="max-width:32px;margin-right:10px"></v-img>
-              Cominig Soon
+              Coming Soon
             </v-btn>
             <v-spacer></v-spacer>
           </v-card-actions>
@@ -295,7 +295,7 @@
             <v-spacer></v-spacer>
             <v-btn color="#454545" variant="flat" size="large" style="text-transform: none !important;" block class="mb-2" disabled>
               <v-img src="/img/icons/unisat.png" style="max-width:32px;margin-right:10px"></v-img>
-              Cominig Soon
+              Coming Soon
             </v-btn>
             <v-spacer></v-spacer>
           </v-card-actions>
