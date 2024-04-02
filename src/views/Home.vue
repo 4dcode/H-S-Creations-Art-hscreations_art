@@ -8,11 +8,15 @@
         class="align-end"
       > 
           <v-row>
-            <v-col cols="12" class="mb-8">
-                <v-card class="pa-2 ma-2" color="transparent" elevation="0">
+            <v-col cols="12" class="mb-16">
+                <!-- <v-card class="pa-2 ma-2" color="transparent" elevation="0">
                     <div class="text-h4 text-center font-weight-bold text-white" style="text-shadow: 1px 1px 2px black, 0 0 25px #637781, 0 0 5px #637781;">NFT SALE OPENS 0N</div>
                     <div class="text-h4 text-center font-weight-bold  text-white" style="text-shadow: 1px 1px 2px black, 0 0 25px #637781, 0 0 5px #637781;">02 APRIL, 2024 - 10:00 UTC</div>
-                </v-card>
+                </v-card> -->
+                <v-btn color="#FFF" dark variant="flat" size="x-large" style="text-transform: none !important;opacity:0.7" class="mb-2" href="https://opensea.io/collection/infinity-by-hs/overview" target="_blank">
+                  <v-img src="/img/icons/opensea.png" style="max-width:32px;margin-right:10px" ></v-img>
+                    Minting now on OpenSea!
+                </v-btn>
             </v-col>
         </v-row>
       </v-img>
@@ -23,10 +27,14 @@
       >
         <v-row class="mb-2">
             <v-col cols="12" class="mb-16">
-                <v-card class="pa-2 ma-2" color="transparent" elevation="0">
+                <!-- <v-card class="pa-2 ma-2" color="transparent" elevation="0">
                     <div class="text-h5 text-center font-weight-bold text-white" style="text-shadow: 1px 1px 2px black, 0 0 25px #637781, 0 0 5px #637781;">NFT SALE OPENS 0N</div>
                     <div class="text-h5 text-center font-weight-bold  text-white" style="text-shadow: 1px 1px 2px black, 0 0 25px #637781, 0 0 5px #637781;">02 APRIL, 2024 - 10:00 UTC</div>
-                </v-card>
+                </v-card> -->
+                <v-btn color="#FFF" variant="flat" size="large" style="text-transform: none !important;opacity:0.9" class="mb-2" href="https://opensea.io/collection/infinity-by-hs/overview" target="_blank">
+                  <v-img src="/img/icons/opensea.png" style="max-width:32px;margin-right:10px" ></v-img>
+                    Minting now on OpenSea!
+                </v-btn>
             </v-col>
         </v-row>
       </v-img>
@@ -231,7 +239,7 @@
 
           <v-card-actions>
             <v-spacer></v-spacer>
-            <v-btn color="#454545" variant="flat" size="large" style="text-transform: none !important;" block class="mb-2" href="https://opensea.io/collection/infinity-by-hs" target="_blank">
+            <v-btn color="#454545" variant="flat" size="large" style="text-transform: none !important;" block class="mb-2" href="https://opensea.io/collection/infinity-by-hs/overview" target="_blank">
               <v-img src="/img/icons/opensea.png" style="max-width:32px;margin-right:10px" ></v-img>
               To OpenSea
             </v-btn>
@@ -254,7 +262,7 @@
             <div>
               <div class="text-h6 text-left">NFT Collection Name: Infinity</div>
               <div class="text-h6 text-left">Blockchain: Polygon/Matic (MATIC)</div>
-              <div class="text-h6 text-left">Total NFTs: 200</div>
+              <div class="text-h6 text-left">Total NFTs: 158</div>
               <div class="text-h6 text-left">Launch Platform: Rarible</div>
               <div class="text-h6 text-center mt-4">Launch Date: 5 April, 2024</div>
             </div>
