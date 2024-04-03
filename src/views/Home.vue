@@ -254,24 +254,24 @@
 
         <v-card theme="dark" variant="outlined" color="white">
           <template v-slot:title>
-            <v-img src="/img/icons/polygon.png" style="max-width:42px;margin-right:10px"></v-img>
-            <div class="text-h5">Rarible Launch</div>
+            <v-img src="/img/icons/ethereum.png" style="max-width:42px;margin-right:10px"></v-img>
+            <div class="text-h5">OpenSea Launch</div>
           </template>
 
           <v-card-item>
             <div>
-              <div class="text-h6 text-left">NFT Collection Name: Infinity</div>
-              <div class="text-h6 text-left">Blockchain: Polygon/Matic (MATIC)</div>
-              <div class="text-h6 text-left">Total NFTs: 158</div>
-              <div class="text-h6 text-left">Launch Platform: Rarible</div>
-              <div class="text-h6 text-center mt-4">Launch Date: 5 April, 2024</div>
+              <div class="text-h6 text-left">NFT Collection Name: Harmonic Gateways</div>
+              <div class="text-h6 text-left">lockchain: Ethereum (ETH)</div>
+              <div class="text-h6 text-left">Total NFTs: 300</div>
+              <div class="text-h6 text-left">Launch Platform: OpenSea</div>
+              <div class="text-h6 text-center mt-4">Launch Date: 15 April, 2024</div>
             </div>
           </v-card-item>
 
           <v-card-actions>
             <v-spacer></v-spacer>
             <v-btn color="#454545" variant="flat" size="large" style="text-transform: none !important;" block class="mb-2" disabled>
-              <v-img src="/img/icons/rarible.png" style="max-width:32px;margin-right:10px"></v-img>
+              <v-img src="/img/icons/opensea.png" style="max-width:32px;margin-right:10px"></v-img>
               Coming Soon
             </v-btn>
             <v-spacer></v-spacer>
@@ -295,7 +295,7 @@
               <div class="text-h6 text-left">Blockchain: Bitcoin Ordinals (BTC)</div>
               <div class="text-h6 text-left">Total NFTs: 50</div>
               <div class="text-h6 text-left">Launch Platform: Unisat</div>
-              <div class="text-h6 text-center mt-4">Launch Date: 10 April, 2024</div>
+              <div class="text-h6 text-center mt-4">Launch Date: 30 April, 2024</div>
             </div>
           </v-card-item>
 
