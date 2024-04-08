@@ -233,7 +233,7 @@
               <div class="text-h6 text-left">Blockchain: Ethereum (ETH)</div>
               <div class="text-h6 text-left">Total NFTs: 158</div>
               <div class="text-h6 text-left">Launch Platform: OpenSea</div>
-              <div class="text-h6 text-center mt-4">Launch Date: 2 April, 2024</div>
+              <div class="text-h6 text-center mt-4">Launch Date: 8 April, 2024</div>
             </div>
           </v-card-item>
 
