@@ -264,7 +264,7 @@
               <div class="text-h6 text-left">lockchain: Ethereum (ETH)</div>
               <div class="text-h6 text-left">Total NFTs: 300</div>
               <div class="text-h6 text-left">Launch Platform: OpenSea</div>
-              <div class="text-h6 text-center mt-4">Launch Date: 15 April, 2024</div>
+              <div class="text-h6 text-center mt-4">Launch Date: 30 April, 2024</div>
             </div>
           </v-card-item>
 
@@ -295,7 +295,7 @@
               <div class="text-h6 text-left">Blockchain: Bitcoin Ordinals (BTC)</div>
               <div class="text-h6 text-left">Total NFTs: 50</div>
               <div class="text-h6 text-left">Launch Platform: Unisat</div>
-              <div class="text-h6 text-center mt-4">Launch Date: 30 April, 2024</div>
+              <div class="text-h6 text-center mt-4">Launch Date: 15 May, 2024</div>
             </div>
           </v-card-item>
 
